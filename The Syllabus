@@ -1,1 +1,233 @@
+ 	
 
+
+
+
+CODEIT Python Cloud Software Engineering Course Syllabus
+
+Course Description:
+The goal of this course is to teach software engineering concepts through the Python Cloud Engineering language. In this course, you will learn fundamentals and advanced Python and AWS Cloud methodologies. The course will conclude with a dissertation project which will be a final project of your choosing for potential employers to look at and certification exams in AWS and Python. This course will go for 16 weeks.
+
+Don’t be afraid! You don’t have to be a math wiz in any capacity to learn code!
+
+When: Monday - Friday 4:00 pm - 8:00 pm --STARTING 22ND FEB For 16 Weeks
+
+Instructors:
+shawnday.dl@gmail.com
+paulsun096@gmail.com
+elijahknsubuga@gmail.com
+
+Contact Information: We will be communicating through Slack and occasionally email
+
+
+What you will learn:
+●Python programming language
+●AWS Cloud Solutions
+●Programmatic logical thinking
+
+What is Python?
+●Python is an interpreted high-level programming language for general-purpose programming created by Guido Van Rossum and was first released in 1991
+
+There will be a weekly recap quiz’s to reinforce new topics
+There will be a number of projects that will be assigned as the course moves on to reinforce topics Resources:
+●http://github.com
+●http://pythontutor.com
+●http://python.org
+●https://www.tutorialspoint.com/python/index.htm
+
+
+
+PLEASE READ:
+
+This course is a chance to make a serious career change (google python developer salary), however as with any programming course, the class alone will not be enough. If you really want to make this change, you need to practice! 30 minutes to an hour of review or even external learning will go a very long way and will make it easier for you towards the end of the course when your capstone is due. The more effort you put in, the better chances of you getting hired quickly!
+
+
+Now onto the Syllabus:
+
+
+Structure of Class:
+
+2 hrs-Teaching, 2 hrs-In class coding 1 weekly quiz + assignment
+Grading:
+Quizzes	10%
+Assignments	20%
+Midterm 1	20%
+Midterm 2	20%
+Capstone Project	30%
+
+Week 1: Starting to code – Python and IDLE
+●Installation and setup
+●Rationale (why Python?)
+olibraries
+oshow code snippets
+ocompanies using it
+ouse cases
+●thinking like a programmer
+oprimitive expressions
+▪ints, strings
+ocombining expressions
+▪arithmetic, concatenation
+oabstracting expressions
+
+▪variables, (pure) functions
+●assignments
+otemperature converter/bmi calculator
+Week 2: Simple Programs
+●bools
+●if statements
+●numbers
+olimitations of floats
+ouse cases for modulo and floordiv
+otype conversion, rounding
+omath library
+ouse cases for diff number formats (hex, octal, bin)
+●how to read error messages
+●reading documentation, googling
+●assignment
+ocost of international calls
+otriangle classification
+Week 3: Strings, lists, Dictionaries
+●string cookbook
+oescapes
+oformatting
+oindices & slicing
+●lists
+ouse cases
+ocomprehensions
+omatrices?
+oreference equality gotchas
+●dictionaries
+ouse cases
+ohashable req
+●common patterns
+o`in` and `not in` operators
+owhen to pick which data structure
+ocommon methods & funcs
+▪`len`, `sorted`
+o	`[::-1]`
+●`for`-loops
+orange
+othe iterable abstraction
+●assignments
+ocustom `max`/how to represent a phonebook/password strength calculator/fizzbuzz
+Week 4: OOP
+●basics of OOP
+omotivation
+●instances/objects
+●Encapsulation
+●Inheritance
+●Polymorphism
+
+●assignments
+ogame entities
+opoints, rational numbers
+oextending `list`
+Week 5: Bringing it all together
+●Exception handling
+obugs vs expected errors
+●file IO
+●Debugging and testing
+●introspection with `dir`
+●Modules (random, datetime, os, sys)
+●lambdas
+●code style
+●assignments
+oparsing .csv
+ousing pathlib
+Week 6: Development Environments
+●upgrade from idle
+oeditor
+▪pycharm, vscode
+oterminal
+odebugger, linter, language server protocol
+●virtual environments
+●git
+oand github
+oproject structure
+●pip & what you can get
+orequests, django/flask, numpy, pandas, tensorflow
+●basic terminal interaction
+●assignments
+opersonalize your dev environment
+Week 7: Automation
+●APIs
+ohiding secret keys in environment variables
+●twitter bot project (tweepy)
+●pwnedpasswords checker
+orequests, hashlib
+●assignments
+ouse {twilio, smtp} to send an {sms, email}
+Week 8: Web scraping
+●Scraping basics
+ouse cases, ethics
+ojson overview
+ohow to inspect sites
+
+●beautifulsoup
+ooverview
+oselectors
+●scraping hacker news project
+●assignments
+ofind top movies on IMDB since 1980
+Week 9: Web Fundamentals
+●how the web works
+●building a {blog, portfolio} website
+odjango/flask
+ohtml/css templates
+odatabase integration
+●assignment
+ocustomize the page we build in class
+Week 10: Data science fundamentals
+●Jupyter notebooks
+●Kaggle datasets
+●Data wrangling with pandas
+●Visualization w/ seaborn & bokeh
+●brief introduction to machine learning
+ouse cases
+oscikit-learn
+osimple predictions using iris dataset
+●Assignment
+oscrape a site for data to wrangle
+Week 11: Algorithms
+●Recursion
+●Search & sort algorithms & their complexities
+○{linear, binary} search
+○{insertion, merge, quick}sort
+●fibonacci impls
+●towers of hanoi, pascal’s triangle
+●assignment
+○walk through an explanation of {quicksort?} and why it works
+Week 12: Data structures
+●Recognizing use cases and complexities of:
+○Arrays
+○Stacks
+○Queues
+○Hash tables
+●Knowing how to implement:
+○{Singly, Doubly} linked list
+○binary tree
+○graphs
+■DFS and BFS algorithms
+●assignment
+○check if a string of parentheses “()))((())())” is balanced or not (use a stack)
+Week 13: DevOps
+●Cloud instances (AWS)
+●Dockerizing projects
+○using docker-compose to spin up a database image
+
+●MySQL / PostgreSQL
+●deploying to a domain
+●kubernetes scaling
+●assignment
+○deploy a “hello world” app for production, with all that entails
+Week 14: Capstone Project
+●Entire week devoted to capstone project
+●Requirements:
+oProject must have backend/frontend and serve a purpose
+oCode copied from the internet with no referencing will get a 0
+oEntire projects copied from the internet get a 0
+oAny code used from another source must be referenced with a link to the website
+oCode that does not work will get a 0
+oThe student is expected to understand all their code (even that which was copied) and be able to explain it
+oCapstone is due Friday before class
+oPresentations 10-20 minutes on Friday
